@@ -13,4 +13,4 @@ from vcf.parser import RESERVED_INFO, RESERVED_FORMAT
 from vcf.sample_filter import SampleFilter
 from vcf.model import Call
 
-VERSION = '2.0.0'
+VERSION = '2.0.1'
